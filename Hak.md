@@ -6,6 +6,37 @@
   그후 생성한 폴더에 필요한 그래픽 에셋들을 넣어준다.
 * 한 이미지 파일안에 여러 에셋들이 들어가 있는경우
   ![타일셋](./images/tilesetx1.png)
+  
   위의 이미지와 같이 여러 에셋들이 한 이미지 파일안에 들어가 있는 경우들이 있다. 이러한 경우 이미지를 선택해 준뒤 Inspector창에서
   
   ![image](https://github.com/user-attachments/assets/0015e1e9-bccd-446b-80a2-4b774fd2646e)
+  
+  Sprite Mode를 Single에서 Multiple로 바꿔준후
+  
+  ![image](https://github.com/user-attachments/assets/1e4ee331-908b-42c9-96a3-9e24fe6983c7)
+  
+  Pixels Per Unit을 에셋에 맞게 설정해준다. 에셋하나당 32픽셀일시 32픽셀로 설정해주면은 된다. 혹여나 게임에 이미지를 띄워 봤는데 너무 크거나 작다고 느낄시 이 수치를 크거나 작게 함으로써 손쉽게 크기 조절이 가능하다.
+
+  ![image](https://github.com/user-attachments/assets/c020dce4-c075-4250-ad09-c019e22678ce)
+
+  만약 게임을 도트게임으로 만들시 Filter Mode를 Bilinear에서 Point로 변경해줘야 한다. 그러지 않을시 안티 얼리어싱이 적용되므로 도트가 흐릿하게 보이게 된다.
+
+  모든 설정을 한뒤 Apply를 잊지말자.
+  
+  이제 이미지 파일을 잘라 줘야한다. Inspector에서
+
+  ![캡처](https://github.com/user-attachments/assets/2d33d44c-5d5f-4db2-97a3-a5d75d7ad329)
+
+  Sprite editor를 선택해준뒤 떠오르는 창에서
+
+  ![캡처0](https://github.com/user-attachments/assets/37c9a428-159f-4890-b793-02f26dc8abc4)
+
+  Slice를 선택해준뒤
+
+  ![image](https://github.com/user-attachments/assets/d798abd0-297c-4edb-be14-4a1f231d75bc)
+
+  Type을 Grid By Cell Size로 설정해준뒤
+
+  ![image](https://github.com/user-attachments/assets/1a40aac2-7488-4fa5-801b-9c48f5537f50)
+
+  한 이미지안에 들어가 있는 에셋들이 개별 적용 될수 있는 사이즈로 Pixel Size를 설정해준뒤, Slice 누른후 떠있는 창의 Apply를 누른다.
