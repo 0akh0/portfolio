@@ -1,4 +1,4 @@
-# 안녕하세요, 안기환입니다.
+# 👋안녕하세요, 안기환입니다.
 게임 개발을 즐기며 합니다.
 
 언제나 무엇이 좋고 재미있는 게임인지 고민합니다.
@@ -7,25 +7,13 @@
 # ✏️저는 이런것들을 쓸수있습니다!
 * 언어
 
- <image src="https://github.com/user-attachments/assets/49320e73-2d82-47f6-ad38-bd578073e805"  width="26.5" height="30"/>
- ,<image src="https://github.com/user-attachments/assets/d8761978-deee-42c1-96ff-052b8daacdde" width="33" height="33"/>,<image src="https://github.com/user-attachments/assets/7425d5e1-c441-451c-a0b1-95ce1e3d9444"width="33" height="33"/>
-
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c%23-00599C?style=flat-square&logo=C-Sharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-
- 
-
-
- 
-
-C/C++, C#, Java
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a>
 * 개발 툴
 
-  Unity
+  <img src="https://img.shields.io/badge/unity-%23000000?style=flat-square&logo=unity&logoColor=white"/></a>
 # 📖학력
 2025.3 서일대 소프트웨어공학과 재학중
 # 📄프로젝트
