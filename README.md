@@ -17,8 +17,13 @@
   [<img src="https://img.shields.io/badge/unity-%23000000?style=flat-square&logo=unity&logoColor=white"/></a>](./UnityHaks "변칙오목")
 # 📖학력
 * **서일대 소프트웨어공학과 재학중 2025**
+
+# 자격증
+컴활,ITQ,게임 프로그래밍전문가,게임 기획전문가
+
 # 📄프로젝트
 * 📝**현재진행중**
   * [변칙 오목](https://github.com/JIN-YOO-YU/Omok "변칙 오목" )
 
     여태까지 없던 종류의 오목 게임으로서 오목 게임에 캐릭터를 접목시켜 새로운 오목 게임을 만들고 있습니다.
+# 연락처
