@@ -8,12 +8,12 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   
-  <img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a>
+  [<img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a>](./C#Haks "C#")
   
   <img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a>
 * **개발 툴**
 
-  [<img src="https://img.shields.io/badge/unity-%23000000?style=flat-square&logo=unity&logoColor=white"/></a>](./UnityHaks "변칙오목")
+  [<img src="https://img.shields.io/badge/unity-%23000000?style=flat-square&logo=unity&logoColor=white"/></a>](./UnityHaks "유니티")
 # 📖이런 곳에서 공부 했습니다!
 ---
 * **서일대 소프트웨어공학과 재학중 2022 ~ 현재**
