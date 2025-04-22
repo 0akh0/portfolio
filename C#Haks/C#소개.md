@@ -22,7 +22,7 @@ C#을 통해 프로그래밍을 합니다. 컴파일까지만 해주면 나머�
 
 ## 프로그램 기본 구조
 
-```
+```csharp
 
 using System;
 
@@ -41,9 +41,10 @@ Console.WriteLine("Hello world!");
 
 최신 C#에서는 최상위 문을 사용할 수도 있습니다:
 
-```
+```csharp
 
 using System;
 
 Console.WriteLine("Hello world!");
 
+```
