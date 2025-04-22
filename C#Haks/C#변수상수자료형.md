@@ -24,7 +24,7 @@ string name;
 
 ### 상수 선언
 
-```
+```csharp
 
 const 자료형 변수명 = 값;
 const int NUM = 100;
@@ -65,7 +65,7 @@ const string DATE_FORMAT = "yyyy-MM-dd";
 
 ※주의 사항: **float(f)형과 decimal(m)형**은 사용 시 **리터럴 접미사**를 붙여야 합니다.
 
-```
+```csharp
 
 float f = 123.345f;
 decimal d = 12345678912334567m;
@@ -89,7 +89,7 @@ decimal d = 12345678912334567m;
 
 불리언 자료형은 참(true) 또는 거짓(false) 값을 저장합니다.
 
-```
+```csharp
 
 bool isValid = true;
 
@@ -104,7 +104,7 @@ bool isValid = true;
 
 #### enum 예시
 
-```
+```csharp
 
 enum DAY_OF_WEEK
 {
