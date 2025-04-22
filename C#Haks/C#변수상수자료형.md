@@ -18,7 +18,7 @@ string name = "홍길동";
 ```
 
 const double PI = 3.141592;
-const string HW = "HELLO WORLD";
+const string API_KEY = "ABC-123-XYZ";
 
 ```
 
