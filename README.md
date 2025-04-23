@@ -16,8 +16,8 @@
   [<img src="https://img.shields.io/badge/unity-%23000000?style=flat-square&logo=unity&logoColor=white"/></a>](./UnityHaks "유니티")
 # 📖학업
 ---
-* **서일대 소프트웨어공학과 재학중 2022 ~ 현재**
-* **Udemy C#과 Unity로 3D 게임 개발하기 수강중**
+* **서일대 소프트웨어공학과 재학중 (2022.03.01 ~ )**
+* **Udemy C#과 Unity로 3D 게임 개발하기 수강중 (2025.03.15 ~ )**
 
 # 🖥자격증
 ---
