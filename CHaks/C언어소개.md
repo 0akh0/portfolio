@@ -38,7 +38,7 @@ return 0;  // 함수 반환값
 
 ```
 
-- `#include <stdio.h>;`: 표준 입출력 헤더 파일을 포함합니다.
+- `#include <stdio.h>`: 표준 입출력 헤더 파일을 포함합니다.
 - `int main()`: 프로그램의 진입점인 메인 함수를 정의합니다.
 - `printf("Hello, World!\n");`: 화면에 "Hello, World!"를 출력합니다.
 - `return 0;`: 프로그램이 정상적으로 종료되었음을 운영체제에 알립니다.
