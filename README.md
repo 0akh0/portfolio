@@ -10,7 +10,7 @@
   
   [<img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a>](CSharpHaks "C#")
   
-  <img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a>
+  [<img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a>](JavaHaks "자바")
 * **개발 툴**
 
   [<img src="https://img.shields.io/badge/unity-%23000000?style=flat-square&logo=unity&logoColor=white"/></a>](./UnityHaks "유니티")
