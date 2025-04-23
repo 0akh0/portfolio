@@ -5,8 +5,8 @@
 ---
 * **언어**
 
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+  [<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>](CHaks "C")
+  [<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>](C++Haks "C++")
   
   [<img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a>](CSharpHaks "C#")
   
