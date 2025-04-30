@@ -71,7 +71,8 @@
 
 게임 플로우차트
 
-![image](https://github.com/user-attachments/assets/f54cdea5-2183-493f-87fd-a9d6862bfe95)
+![image01](https://github.com/user-attachments/assets/87c8c085-8a03-4b25-adc6-db3b7609091f)
+
 
 
 ## 개발 계획
