@@ -8,7 +8,7 @@
   [<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>](CHaks "C")
   [<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>](C++Haks "C++")
 
-  [<img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=csharp&logoColor=white" width="40" height="20"/></a>](CSharpHaks "C#")
+  [<img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=csharp&logoColor=white" width="35" height="20"/></a>](CSharpHaks "C#")
   
   [<img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white&size=large"/></a>](JavaHaks "자바")
 * **개발 툴**
@@ -33,23 +33,22 @@
 
 # 📄프로젝트
 ---
->* 📝**현재진행중**
->    * [변칙 오목](https://github.com/JIN-YOO-YU/Omok "변칙 오목" )
->       >+ 개발기간 : 2025-03-11 ~
->        >+ 역할 : 클라이언트 개발
->        >+ 사용엔진 : Unity
->        >+ Language : C#
+>    
+> * ⚪⚫[변칙 오목](https://github.com/JIN-YOO-YU/Omok "변칙 오목" )
+>   >+ 개발기간 : 2025-03-11 ~
+>    >+ 역할 : 클라이언트 개발
+>    >+ 사용엔진 : Unity
+>    >+ Language : C#
 >      
 >      여태까지 없던 종류의 오목 게임으로서 오목 게임에 캐릭터를 접목시켜 새로운 오목 게임을 만들고 있습니다.
->* ✅**프로젝트 종료**
->      * [버그 고치는 게임](./텀프로젝트 "텀프로젝트" )
->         >+ 개발기간 : 2023-11-03 ~ 2023-12-22
->        >+ 역할 : 게임 기획
->        >+ 사용엔진 : Unity
->        >+ Language : C#
+> * 🧰[버그 고치는 게임](./텀프로젝트 "텀프로젝트" )
+>   >+ 개발기간 : 2023-11-03 ~ 2023-12-22
+>    >+ 역할 : 게임 기획
+>    >+ 사용엔진 : Unity
+>    >+ Language : C#
 >
 >  
->          게임의 베타테스터가 되어 게임의 버그를 고쳐보세요!
+>   게임의 베타테스터가 되어 게임의 버그를 고쳐보세요!
 # ☎️연락처
 ---
 **전화번호 : 010-3857-7732**
