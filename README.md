@@ -8,7 +8,7 @@
   [<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>](CHaks "C")
   [<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>](C++Haks "C++")
 
-  [<img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=csharp&logoColor=white" width="35" height="20"/></a>](CSharpHaks "C#")
+  [<img src="https://img.shields.io/badge/c%23-%23239120?style=flat-square&logo=csharp&logoColor=white" width="35" height="25"/></a>](CSharpHaks "C#")
   
   [<img src="https://img.shields.io/badge/java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white&size=large"/></a>](JavaHaks "자바")
 * **개발 툴**
